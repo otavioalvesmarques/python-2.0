@@ -17,3 +17,4 @@ divisao = 2/1
  # operador de exponencial
 
 potencia = 2 ** 4
+
