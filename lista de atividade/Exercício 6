@@ -1,0 +1,8 @@
+
+print("número  quadrado  cubo")
+
+for numero in range(11):
+    quadrado = numero ** 2
+    cubo = numero ** 3
+
+    print(f"{numero:<7} {quadrado:<9} {cubo}")
